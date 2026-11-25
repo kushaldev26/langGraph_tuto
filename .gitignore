@@ -37,5 +37,7 @@ build/
 .DS_Store
 Thumbs.db
 
+*.db
+*.db-*
 # uv
 # Keep uv.lock committed for reproducible environments
